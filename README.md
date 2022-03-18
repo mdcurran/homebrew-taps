@@ -1,4 +1,4 @@
-# Mdcurran Taps
+# mdcurran Taps
 
 ## How do I install these formulae?
 
